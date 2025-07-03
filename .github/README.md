@@ -72,7 +72,7 @@ Feel free to contribute ([lets-fork-it](https://github.com/login?return_to=%2FSa
 
 <p align="center">
   <img src="https://github.com/SamanKhalife/linux-commands/blob/main/IMAGES/3333333333333333333.png" alt="Image description" width="700" style="max-width: 100%;">
-</p>
+</ p>
 
 ### Stage 1: BIOS (Basic Input/Output System)
 
